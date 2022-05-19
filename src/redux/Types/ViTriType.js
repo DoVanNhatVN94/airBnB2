@@ -1,0 +1,1 @@
+export const layDanhSachViTri = 'LAY_DANH_SACH_VI_TRI'
